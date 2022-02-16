@@ -1,1 +1,0 @@
-## Hi there 👋 Welcome to Infratographer. Ever managed a bunch of infra but also a bunch of kube clusters and kinda hate that there isn't some form of registry? We'll, we're going to probably apply a generic low level amount of effort to accomplish that.
