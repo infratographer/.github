@@ -4,7 +4,7 @@ Welcome to Infratographer! We're super excited to have you here. This document c
 
 ## Filing an Issue
 
-If you are using one of our open source projects- you'll likely begin interacting with us by
+If you are using one of our source available projects- you'll likely begin interacting with us by
 filing an issue. Regardless of whether you think the issue is with the project itself, if you're
 having trouble using the project, feel free to file an issue on the repo.
 
