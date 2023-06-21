@@ -37,7 +37,7 @@ questions! The maintainers are there to help you!
 
 ## Conduct
 
-Equinix Opensource follows the [Contributor Covenant Code of Conduct]. You can find a copy in each
+Infratographer follows the [Contributor Covenant Code of Conduct]. You can find a copy in each
 of our repositories. Violating the CoC could result in a warning or a ban to any and all repositories
 in this organization.
 
@@ -45,4 +45,4 @@ in this organization.
 
 ## Contact
 
-If you have any questions, please reach out to @matoszz
+If you have any questions, please reach out to @nicolerenee or @sfunkhouser
